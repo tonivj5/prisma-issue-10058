@@ -10,6 +10,7 @@
         "outputPath": "dist/apps/test",
         "main": "apps/test/src/main.ts",
         "tsConfig": "apps/test/tsconfig.app.json",
+        "webpackConfig": "apps/test/webpack.config.js",
         "assets": ["apps/test/src/assets"]
       },
       "configurations": {
